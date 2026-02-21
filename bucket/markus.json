@@ -1,10 +1,10 @@
 {
-    "version": "0.7.0",
+    "version": "0.8.0",
     "description": "A local WYSIWYG Markdown editor built with Electron, React, and ProseMirror",
     "homepage": "https://github.com/benquemax/markus-the-editor",
     "license": "MIT",
-    "url": "https://github.com/benquemax/markus-the-editor/releases/download/v0.7.0/Markus-Setup-0.7.0.exe#/setup.exe",
-    "hash": "99d86dce40329dd0a44d72f633cc8ff5dd33890092886b6cf9086297b9020ba8",
+    "url": "https://github.com/benquemax/markus-the-editor/releases/download/v0.8.0/Markus-Setup-0.8.0.exe#/setup.exe",
+    "hash": "fab65eda4c03ee8839b6c549acc56e4dd723546c236029d31cc4762ece97fefa",
     "installer": {
         "script": [
             "Start-Process -Wait \"$dir\setup.exe\" -ArgumentList '/S', \"/D=$dir\current\""
